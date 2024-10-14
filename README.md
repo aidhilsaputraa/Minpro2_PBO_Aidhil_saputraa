@@ -72,4 +72,20 @@ Properti kelas seperti id, nama, dan spesialisasi dienkapsulasi (bersifat privat
 # **Final Keyword:**
 Properti seperti id dan spesialisasi bersifat final, yang berarti nilainya hanya bisa diinisialisasi satu kali dan tidak dapat diubah.
 
+![Screenshot 2024-10-14 153747](https://github.com/user-attachments/assets/47f259d1-e5b3-4b45-828a-58fe31ce4520)
+
+![Screenshot 2024-10-14 153828](https://github.com/user-attachments/assets/c25a3447-1ffb-4edf-9bea-f0e06ac02a8f)
+
+![Screenshot 2024-10-14 153840](https://github.com/user-attachments/assets/9f875cfb-5789-4ff0-890a-679a68fa40a6)
+
+![Screenshot 2024-10-14 153915](https://github.com/user-attachments/assets/f7c3b778-1964-4d28-b3bb-1b47356b40db)
+
+![Screenshot 2024-10-14 153956](https://github.com/user-attachments/assets/2d2e174a-cfa4-496c-b77c-353298ebef98)
+
+
+
+
+
+
+
 
